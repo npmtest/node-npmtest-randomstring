@@ -1,16 +1,16 @@
 <svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="206" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 09:10:30 +0000    12935 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 09:10:30 +0000     1098 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 09:10:30 +0000     1060 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 09:10:30 +0000     1744 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 09:10:30 +0000      896 bytes  bin/randomstring</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 09:10:30 +0000       47 bytes  index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 09:10:30 +0000     1228 bytes  lib/charset.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 09:10:30 +0000     1428 bytes  lib/randomstring.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 09:10:30 +0000     2418 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 09:10:30 +0000     2991 bytes  test/index.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 09:10:30 +0000       25 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 09:11:28 +0000    12935 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:11:28 +0000     1098 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:11:28 +0000     1060 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:11:28 +0000     1744 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:11:28 +0000      896 bytes  bin/randomstring</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:11:28 +0000       47 bytes  index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:11:28 +0000     1228 bytes  lib/charset.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:11:28 +0000     1428 bytes  lib/randomstring.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:11:28 +0000     2418 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:11:28 +0000     2991 bytes  test/index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:11:28 +0000       25 bytes  test/mocha.opts</tspan>
 </text>
 </svg>

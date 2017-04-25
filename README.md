@@ -1,6 +1,6 @@
 # npmtest-randomstring
 
-#### test coverage for  [randomstring (v1.1.5)](https://github.com/klughammer/node-randomstring)  [![npm package](https://img.shields.io/npm/v/npmtest-randomstring.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-randomstring) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-randomstring.svg)](https://travis-ci.org/npmtest/node-npmtest-randomstring)
+#### basic test coverage for  [randomstring (v1.1.5)](https://github.com/klughammer/node-randomstring)  [![npm package](https://img.shields.io/npm/v/npmtest-randomstring.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-randomstring) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-randomstring.svg)](https://travis-ci.org/npmtest/node-npmtest-randomstring)
 
 #### A module for generating random strings
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-randomstring/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-randomstring/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-randomstring/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-randomstring/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-randomstring/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-randomstring/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-randomstring/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-randomstring/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-randomstring/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-randomstring/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-randomstring/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-randomstring/build/coverage.html/index.html)
 
